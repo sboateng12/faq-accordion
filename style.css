@@ -76,7 +76,7 @@ select {
 }
 
 body {
-  background: url(/assets/images/background-pattern-desktop.svg) no-repeat;
+  background: url(assets/images/background-pattern-desktop.svg) no-repeat;
   background-color: hsl(275, 100%, 97%);
 }
 
