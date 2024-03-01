@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/sboateng12/faq-accordion)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://sboateng12.github.io/faq-accordion/)
 
 ## My process
 
